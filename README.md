@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @Victor-430
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on a frontend project
+- 👋 Hi, I’m Oyeleke Victor Oluwatobi
+  
+- 👀 A Frontend developer. I build
+responsive and user-friendly web applications using React,Tailwind ,JavaScript, Typescript.I also focus
+on creating high-performance websites.
+
+🌱 My tech Stack are: React, JavaScript, Typescript, Tailwind.
+
+💞️ I’m looking to collaborate on a frontend project
+
 - 📫 How to reach me (oluwatobivictor430@gmail.com)
 
 <!---
